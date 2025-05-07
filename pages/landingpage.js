@@ -15,8 +15,7 @@ import Button from "/components/CustomButtons/Button.js";
 import HeaderLinks from "/components/Header/HeaderLinks.js";
 import Parallax from "/components/Parallax/Parallax.js";
 
-import styles from "./landingpage.js";
-
+import styles from "/workspaces/AI_music/pages/landingpage.js";
 // Sections for this page
 import ProductSection from "/pages-sections/LandingPage-Sections/ProductSection.js";
 import WorkSection from "/pages-sections/LandingPage-Sections/WorkSection.js";
